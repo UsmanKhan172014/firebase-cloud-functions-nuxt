@@ -1,0 +1,14 @@
+{
+  "GetStatus": {
+    "description": "Auto imported from components/GetStatus.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "SignIn": {
+    "description": "Auto imported from components/SignIn.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}
